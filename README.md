@@ -30,7 +30,7 @@ Yes, as an admin you can go to the settings page of the plugin, select the user 
 
 ### How can an admin force Authy Two-Factor Authentication on a specific user?
 
-As an admin, you can go to users page. Then, select the user in the list, and click edit. Go to the bottom, enter the user's mobile number and contry code, and click "Update user."
+As an admin, you can go to users page. Then select the user in the list, and click edit. Go to the bottom, enter the user's mobile number and country code, then click "Update user."
 
 ## Copyright
 
